@@ -1,0 +1,15 @@
+html {
+	font-size: 25px;
+	font-family: Microsoft JhengHei,Times New Roman, serif;
+}
+
+button {
+	width: 100px;
+	height: 60px;
+	border-radius: 10px;
+	background-color: #007bff;
+	color: white;
+}
+table {
+
+}
