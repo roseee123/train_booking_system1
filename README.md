@@ -53,3 +53,9 @@ Train2(train_no, board_date, city_no, city_name, city_stop_time)北上列車
 Train(train_no, board_date, city_no,_seat_amount,1,2,3,4,5,6,7,8,9,10)南下列車座位
 Train2(train_no, board_date, city_no,_seat_amount,1,2,3,4,5,6,7,8,9,10)北上列車座位
 
+四、	架設環境
+
+Windows 10
+XAMPP
+
+
